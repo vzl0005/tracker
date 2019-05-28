@@ -1,5 +1,6 @@
 # car-tracker-seed
 seed for the Full-Stack IOT training project: car-tracker
+Fleet management Iot API
 
 ## directory structure:
 
